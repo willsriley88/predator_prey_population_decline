@@ -1,6 +1,5 @@
  """ ***Predator Prey Population Dynamics***
     ***Author - Will Duckworth***
-    ***COSC102 Trimester 2, 7/2022***
 
 This program explores the relationship between predator and prey populations
 in nature. It is an investigation of a closed, uncontrolled study of the
